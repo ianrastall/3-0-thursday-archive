@@ -130,3 +130,6 @@
 3-0-thursday_2026-09-17a.pgn: 2026 3 0 Thursday September 17 First
 3-0-thursday_2026-09-17b.pgn: 2026 3 0 Thursday September 17 Second
 3-0-thursday_2026-09-17c.pgn: 2026 3 0 Thursday September 17 Third
+3-0-thursday_2026-09-24a.pgn: 2026 3 0 Thursday September 24 First
+3-0-thursday_2026-09-24b.pgn: 2026 3 0 Thursday September 24 Second
+3-0-thursday_2026-09-24c.pgn: 2026 3 0 Thursday September 24 Third
