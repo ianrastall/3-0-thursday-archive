@@ -133,3 +133,6 @@
 3-0-thursday_2026-09-24a.pgn: 1128
 3-0-thursday_2026-09-24b.pgn: 599
 3-0-thursday_2026-09-24c.pgn: 356
+3-0-thursday_2026-10-01a.pgn: 1171
+3-0-thursday_2026-10-01b.pgn: 756
+3-0-thursday_2026-10-01c.pgn: 420
