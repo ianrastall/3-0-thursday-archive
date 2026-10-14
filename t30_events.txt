@@ -136,3 +136,6 @@
 3-0-thursday_2026-10-01a.pgn: 2026 3 0 Thursday October 01 First
 3-0-thursday_2026-10-01b.pgn: 2026 3 0 Thursday October 01 Second
 3-0-thursday_2026-10-01c.pgn: 2026 3 0 Thursday October 01 Third
+3-0-thursday_2026-10-08a.pgn: 2026 3 0 Thursday October 08 First
+3-0-thursday_2026-10-08b.pgn: 2026 3 0 Thursday October 08 Second
+3-0-thursday_2026-10-08c.pgn: 2026 3 0 Thursday October 08 Third

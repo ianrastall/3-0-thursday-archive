@@ -4,7 +4,7 @@ Chess.com **3-0 Thursday** games, renamed and organized for the Chess Nerd
 archive. 3-0 Thursday is a weekly prize event for titled players that debuted on
 **November 13, 2025**. Three tournaments run every Thursday — 11 a.m., 4 p.m.,
 and 9 p.m. ET — recorded here as sessions **First / Second / Third** (`a` / `b` /
-`c`). The collection currently covers November 13, 2025 through October 1, 2026.
+`c`). The collection currently covers November 13, 2025 through October 8, 2026.
 
 ## Data and naming
 
