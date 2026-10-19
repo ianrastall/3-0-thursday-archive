@@ -139,3 +139,6 @@
 3-0-thursday_2026-10-08a.pgn: 1022
 3-0-thursday_2026-10-08b.pgn: 527
 3-0-thursday_2026-10-08c.pgn: 305
+3-0-thursday_2026-10-15a.pgn: 1049
+3-0-thursday_2026-10-15b.pgn: 645
+3-0-thursday_2026-10-15c.pgn: 379
