@@ -142,3 +142,6 @@
 3-0-thursday_2026-10-15a.pgn: 1049
 3-0-thursday_2026-10-15b.pgn: 645
 3-0-thursday_2026-10-15c.pgn: 379
+3-0-thursday_2026-10-22a.pgn: 1085
+3-0-thursday_2026-10-22b.pgn: 592
+3-0-thursday_2026-10-22c.pgn: 329
