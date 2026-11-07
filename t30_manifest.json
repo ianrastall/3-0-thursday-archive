@@ -1762,5 +1762,77 @@
     "games": 329,
     "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-10-22c.zip",
     "sha256": "9b95841908be1fb48fd456f4c69b712dd33ac22720d4cb3cb12efe9bb985a4ac"
+  },
+  {
+    "pgn": "3-0-thursday_2026-10-29a.pgn",
+    "zip": "3-0-thursday_2026-10-29a.zip",
+    "year": 2026,
+    "date": "2026-10-29",
+    "session": "First",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday October 29 First",
+    "games": 1019,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-10-29a.zip",
+    "sha256": "4e7f47f6ea7651c54401f93298d849f192d6ececf1b06cf2ed650c519b6613c2"
+  },
+  {
+    "pgn": "3-0-thursday_2026-10-29b.pgn",
+    "zip": "3-0-thursday_2026-10-29b.zip",
+    "year": 2026,
+    "date": "2026-10-29",
+    "session": "Second",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday October 29 Second",
+    "games": 651,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-10-29b.zip",
+    "sha256": "77ebf6a6b14e41e6e234b865cab3f54515949dd6bf6983f5bbf0430458a907d4"
+  },
+  {
+    "pgn": "3-0-thursday_2026-10-29c.pgn",
+    "zip": "3-0-thursday_2026-10-29c.zip",
+    "year": 2026,
+    "date": "2026-10-29",
+    "session": "Third",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday October 29 Third",
+    "games": 301,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-10-29c.zip",
+    "sha256": "b95fa063147eaec0099e2ef06f6eaba959739d54b2e6a4437a42a8a76f6e69e1"
+  },
+  {
+    "pgn": "3-0-thursday_2026-11-05a.pgn",
+    "zip": "3-0-thursday_2026-11-05a.zip",
+    "year": 2026,
+    "date": "2026-11-05",
+    "session": "First",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday November 05 First",
+    "games": 1083,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-11-05a.zip",
+    "sha256": "b4fc0ffd36fca7b7c2d73463d8707825414e16686a67de2e5378000fb3494ffd"
+  },
+  {
+    "pgn": "3-0-thursday_2026-11-05b.pgn",
+    "zip": "3-0-thursday_2026-11-05b.zip",
+    "year": 2026,
+    "date": "2026-11-05",
+    "session": "Second",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday November 05 Second",
+    "games": 697,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-11-05b.zip",
+    "sha256": "b71d096987c4d2e0f0ccb6844e99cf5e1da297c516b85c36cc833f725bcbdb80"
+  },
+  {
+    "pgn": "3-0-thursday_2026-11-05c.pgn",
+    "zip": "3-0-thursday_2026-11-05c.zip",
+    "year": 2026,
+    "date": "2026-11-05",
+    "session": "Third",
+    "event": "3-0 Thursday",
+    "sourceEvent": "2026 3 0 Thursday November 05 Third",
+    "games": 286,
+    "url": "https://github.com/ianrastall/3-0-thursday-archive/raw/main/2026/3-0-thursday_2026-11-05c.zip",
+    "sha256": "a07354492f22a6f16f05bb2fc734ca1c45949665ed91d16e53676bec622ae2b4"
   }
 ]
