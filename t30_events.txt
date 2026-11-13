@@ -151,3 +151,6 @@
 3-0-thursday_2026-11-05a.pgn: 2026 3 0 Thursday November 05 First
 3-0-thursday_2026-11-05b.pgn: 2026 3 0 Thursday November 05 Second
 3-0-thursday_2026-11-05c.pgn: 2026 3 0 Thursday November 05 Third
+3-0-thursday_2026-11-12a.pgn: 2026 3 0 Thursday November 12 First
+3-0-thursday_2026-11-12b.pgn: 2026 3 0 Thursday November 12 Second
+3-0-thursday_2026-11-12c.pgn: 2026 3 0 Thursday November 12 Third

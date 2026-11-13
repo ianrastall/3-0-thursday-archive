@@ -151,3 +151,6 @@
 3-0-thursday_2026-11-05a.pgn: 1083
 3-0-thursday_2026-11-05b.pgn: 697
 3-0-thursday_2026-11-05c.pgn: 286
+3-0-thursday_2026-11-12a.pgn: 1038
+3-0-thursday_2026-11-12b.pgn: 612
+3-0-thursday_2026-11-12c.pgn: 343
